@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "453341400443",
+    "firebase_url": "https://basiscoffee-fa157.firebaseio.com",
+    "project_id": "basiscoffee-fa157",
+    "storage_bucket": "basiscoffee-fa157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453341400443:android:4b5a1f327d15be82",
+        "android_client_info": {
+          "package_name": "com.example.parabasis.basiscoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453341400443-3rpmd29m57lsfcboso333tucbq12fgb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXM9haWjQU1yJaX8UhAEN55Dq3q-0zteE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
